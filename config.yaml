@@ -1,0 +1,8 @@
+---
+debug: false
+serial_number: 001
+millis_per_loop: 500
+millis_hold: 10000
+threshold: 1600
+on_action: ./on_action.sh
+off_action: ./off_action.sh
